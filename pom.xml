@@ -73,7 +73,7 @@
     <version.resteasy.jaxrs>3.0.12.Final</version.resteasy.jaxrs>
     <version.javax.servlet.api>4.0.1</version.javax.servlet.api>
     <version.javax.ws.rs.api>2.1.1</version.javax.ws.rs.api>
-    <version.org.webjars.bootstrap>5.0.1</version.org.webjars.bootstrap>
+    <version.org.webjars.bootstrap>5.0.2</version.org.webjars.bootstrap>
     <version.org.jboss.spec>3.0.3.Final</version.org.jboss.spec>
     <version.wildfly>11.0.0.Final</version.wildfly>
     <version.wildfly.maven.plugin>2.0.2.Final</version.wildfly.maven.plugin>
